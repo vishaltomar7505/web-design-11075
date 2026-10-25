@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Course Curriculum</title>
+</head>
+
+<body>
+
+    <h1 align="centre">My course Curriculum</h1>
+    <p align="centre"<b>Computer Science Department</b></p>
+
+<h2>Introduction</h2>
+<p>
+    This webpage shows my course curriculum using basic 
+    <b>HTML tags</b>, different types of lists and special characters
+    like &copy;,&1t; and &gt;. 
+</p>
+
+<h2>Semester 1 Subjects</h2>
+
+<ol>
+    <li>Mathematics</li>
+    <li>Programming in c</li>
+    <li>Computer Fundamentals</li>
+    <li>Basic Electronics</li>
+</ol>
+
+<h2>Programming Languages</h2>
+
+<ul>
+    <li>c</li>
+  <li>python</li>
+ <li>java</li>
+ <li>javascript</li>
+</ul>
+
+<h2>Course Details</h2>
+
+<dl>
+     <dt><b>C Programming</b></dt>
+     <dd>Learning variables, loops, arrays and functions.</dd>
+
+     <dt><b>python</b></dt>
+     <dd>Learning basic python programming and proble, solving.</dd>
+</dl>
+
+<h2>Course Modules</h2>
+
+<ol>
+    <li>Basic Concepts
+        <ul>
+            <li>Introduction</li>
+            <li>Computer History</li>
+        </ul>
+    </li>
+
+    <li>Programming
+        <ul>
+            <li>variables</li>
+            <li>Data Types</li>
+        </ul>
+    </li>
+</ol>  
+      
+<h2>Project Work </h2>
+
+ <ul>
+    <li>Web Development
+        <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>javascript</li>
+        </ol>
+    </li>
+
+    <li> Database
+        <ol type="A">
+            <li>MySQL</li>
+            <li>MongoDB</li>
+        </ol>
+    </li>
+</ul>
+<p align="center">
+    &copy; 2026 Computer Science Department</p>
+    <p align="center">
+<h1> Name="vishal tomar"</h1>
+<h2> Admission Number="2026B01011075"</h2>
+    </p>
+</body>
+</html>
